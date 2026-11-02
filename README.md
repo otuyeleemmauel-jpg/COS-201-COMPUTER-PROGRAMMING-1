@@ -1,9 +1,9 @@
 # COS 201 - Computer Programming I
 
 ## Student Information
-- Name: YOUR FULL NAME
-- Matriculation Number: YOUR MATRIC NUMBER
-- Programme: YOUR PROGRAMME
+- Name: OTUYELE AYOMIDE EMMANUEL 
+- Matriculation Number: 25/18775
+- Programme: SOFTWARE ENGINEERING 
 - Course: COS 201
 
 ## Week 1: Introduction to Programming and Problem-Solving
